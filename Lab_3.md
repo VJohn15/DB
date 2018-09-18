@@ -11,3 +11,6 @@ Task 3: Creati o baza de date numita universitatea cu proprietati implicite. in 
 date, creati 2 tabele (grupe, discipline), scheme le carora sunt definite in sectiunea 3 .3 a
 capitolului.
 
+<img src = "lab_3.1.png"/>
+<img src = "lab_3.2.png"/>
+
