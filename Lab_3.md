@@ -5,3 +5,9 @@ Task 2: Fie [Coll] din tabelul de mai jos este de tip INT, ~i [Col2] este de tip
 <img src = "lab_3.3.PNG"/>
 Ce tip de date trebuie sa fie [Col3] pentru a pastra rezultatul urmatoarei expresii Coll * Col2. 
     [Col3] de tip DECIMEL (2.1)
+    
+    
+Task 3: Creati o baza de date numita universitatea cu proprietati implicite. in cadrul acestei haze de
+date, creati 2 tabele (grupe, discipline), scheme le carora sunt definite in sectiunea 3 .3 a
+capitolului.
+
