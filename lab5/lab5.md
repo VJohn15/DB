@@ -2,7 +2,7 @@ Laboratory nr 5
 
 Sarcini practice: 
 Task 1:
-Completati urmatorul cod pentru a afi~a eel mai mare numar dintre cele trei numere prezentate: 
+Completati urmatorul cod pentru a afisa cel mai mare numar dintre cele trei numere prezentate: 
 ![lab5.1](https://github.com/mirelaverebceanu/DB/blob/master/Laboratory%205/Exercises%20screens/lab5.1.PNG)
 
 Task 2:
@@ -10,7 +10,7 @@ Afisati primele zece date (numele, prenumele studentului) in functie de valoarea
 ![lab5.2](https://github.com/mirelaverebceanu/DB/blob/master/Laboratory%205/Exercises%20screens/lab5.2.PNG)
 
 Task 3:
-Rezolvati aceesi sarcina, 1, apeland la structura selectiva CASE. 
+Rezolvati aceiasi sarcina, 1, apeland la structura selectiva CASE. 
 ![lab5.3](https://github.com/mirelaverebceanu/DB/blob/master/Laboratory%205/Exercises%20screens/lab5.3.PNG)
 
 Task 4:
